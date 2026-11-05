@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /.scratch/
+Disallow: /docs/
+
+Sitemap: https://sojusan.pl/sitemap.xml
