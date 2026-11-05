@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="primaryGrad" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="512" y2="512">
+      <stop offset="0%" stop-color="#339af0" />
+      <stop offset="100%" stop-color="#1c7ed6" />
+    </linearGradient>
+  </defs>
+  <path
+    transform="translate(0 256) skewX(-8) translate(0 -256)"
+    d="M 416 150 C 416 90 370 55 256 55 C 140 55 96 100 96 155 C 96 215 150 235 256 256 C 362 277 416 297 416 357 C 416 412 372 457 256 457 C 142 457 96 422 96 362"
+    fill="none"
+    stroke="url(#primaryGrad)"
+    stroke-width="110"
+    stroke-linejoin="round" />
+</svg>
